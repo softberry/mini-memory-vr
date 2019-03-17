@@ -1,3 +1,8 @@
+
+.vscode
+.DS_Store
+
+
 # Logs
 logs
 *.log
@@ -15,7 +20,7 @@ pids
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
+static/coverage
 
 # nyc test coverage
 .nyc_output
